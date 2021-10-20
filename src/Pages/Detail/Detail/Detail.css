@@ -1,0 +1,11 @@
+.detail img{
+    width: 400px;
+    border-radius: 20px;
+   
+}
+.detail{
+ 
+   padding-top: 100px;
+   padding-bottom: 90px;
+   background-color: rgb(233, 241, 238);
+}

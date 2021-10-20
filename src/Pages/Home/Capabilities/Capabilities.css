@@ -1,0 +1,13 @@
+.capabilities{
+    font-size:55px;
+    font-family: cursive;
+}
+.capability h2{
+    color: #17436D;
+}
+.capability p{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+.capability img{
+    border-radius: 20px;
+}

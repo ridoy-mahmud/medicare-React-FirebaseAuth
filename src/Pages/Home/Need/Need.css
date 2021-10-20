@@ -1,0 +1,27 @@
+.need img{
+    
+    height: 300px;
+     border: 1px solid white;
+    border-radius: 20px;
+    
+}
+.need img:hover{
+   transform: scale(1.2);
+}
+.need span{
+    color: red;
+    font-size:30px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.need h2{
+    color: #3ea9db;
+    font-size: 25px;
+    font-weight: 500
+}
+.need h3{
+    color: #17436D;
+    font-size:30px
+}
+.need p{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}

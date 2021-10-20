@@ -1,0 +1,15 @@
+.login{
+    margin:50px auto;
+    width: 55%;
+}
+.input-field{
+    width:110%;
+    margin:0px auto;
+    /* margin-left:340px; */
+}
+.email{
+    margin-left:30px;
+}
+.check{
+    margin-left:-100px;
+}

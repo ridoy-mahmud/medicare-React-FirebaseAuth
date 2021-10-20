@@ -1,0 +1,29 @@
+.card img{
+    object-fit: cover;
+    height: 230px;
+   
+   
+}
+
+.card{
+  
+    height: 620px;
+    border: 0px solid white;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    border-radius: 7px;
+    max-width: 400px;
+    margin:30px auto;
+
+}  
+.title{
+    font-weight: 700;
+    font-size:25px;
+}
+.text{
+    color:rgb(44, 43, 42);
+      
+}
+.button{
+  border: 1px solid white;
+  border-radius: 20px;
+}

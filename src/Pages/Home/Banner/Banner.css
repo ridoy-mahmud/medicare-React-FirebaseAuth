@@ -1,0 +1,12 @@
+
+.banner{
+    height: 90vh;
+    width: 100%;
+    background-image: url("https://i.ibb.co/MBw6PmF/Clean-medical-patterned-background-vector.jpg");
+    background-blend-mode: overlay;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+}
+
